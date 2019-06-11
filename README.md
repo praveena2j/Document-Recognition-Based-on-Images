@@ -14,3 +14,4 @@ Input Arguments : File path of input document
 Output Arguments : Json file with the recognized object attributes
 
 
+Environment :  Python 2.7, Sklearn, Scikit-learn, opencv
